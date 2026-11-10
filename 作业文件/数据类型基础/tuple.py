@@ -1,0 +1,6 @@
+t1=(1,5,8,10,12)
+print(type(t1))
+t2=(100,)
+print(type(t2))
+x=list(t1)
+print(x)
