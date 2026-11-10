@@ -1,0 +1,12 @@
+x1=[1,2,3,4,5]
+print(type(x1))
+x2=[5,6,7,8,9]
+x3=x1+x2
+'''print(x3)'''
+x4=[10,11,12,13,14]
+x3.extend(x4)
+'''print(x3)'''
+x3.append(15)
+'''print(x3)'''
+x3.insert(0,0)
+print(x3)
